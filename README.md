@@ -30,7 +30,7 @@ Have you ever wanted to carry the power of Kali Linux in your pocket? With this 
 
 ### 1. Install Kali NetHunter App Store
 
-- Download the [Kali NetHunter App Store](https://www.kali.org/get-kali/#kali-mobile) APK.
+- Download the [Kali NetHunter App Store](https://store.nethunter.com) APK.
 - Transfer the APK to your Android device.
 - Enable **Unknown Sources** in device settings.
 - Install the APK.
