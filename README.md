@@ -52,7 +52,7 @@ Have you ever wanted to carry the power of Kali Linux in your pocket? With this 
 1. Open **Termux** and update the package list:
 
    ```
-   pkg update
+   pkg update && pkg upgrade
    ```
 
 2. Grant storage access:
